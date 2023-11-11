@@ -77,7 +77,6 @@ header > nav {
   font-weight: 400;
   line-height: 24px; /* 150% */
   letter-spacing: 0.32px;
-  padding-right: 100px;
 }
 .header-nomer {
   color: var(--SLATE, #434455);
@@ -89,5 +88,44 @@ header > nav {
   font-weight: 400;
   line-height: 24px; /* 150% */
   letter-spacing: 0.32px;
-  padding-right: 300px;
+}
+.lozung {
+  width: 1440px;
+  height: 600px;
+  flex-shrink: 0;
+  background: var(--NAVY-BLUE, #2e2f42);
+}
+.lozung-h1 {
+  color: var(--WHITE, #fff);
+  text-align: center;
+
+  /* Header 1 */
+  font-family: Roboto;
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 60px; /* 107.143% */
+  letter-spacing: 1.12px;
+  width: 496px;
+  padding-left: 472px;
+  padding-top: 188px;
+}
+.lozung-button {
+  display: inline-flex;
+  padding: 16px 32px;
+  align-items: flex-start;
+  gap: 10px;
+  border-radius: 4px;
+  background: var(--IRIS, #4d5ae5);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+  color: var(--WHITE, #fff);
+
+  /* Button Text */
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px; /* 150% */
+  letter-spacing: 0.64px;
+  padding-left: 536px;
 }
