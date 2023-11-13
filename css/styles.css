@@ -31,6 +31,7 @@ header > address {
   font-style: normal;
 }
 .address-mail {
+  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
@@ -42,6 +43,7 @@ header > address {
   color: #404bbf;
 }
 .address-mail {
+  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
