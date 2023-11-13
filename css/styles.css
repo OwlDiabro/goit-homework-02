@@ -30,14 +30,14 @@ body {
 header > address {
   font-style: normal;
 }
-.address_1 {
+.address-mail {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.address_1:hover {
+.address-mail:hover {
   color: #404bbf;
 }
-.address_1:focus {
+.address-mail:focus {
   color: #404bbf;
 }
