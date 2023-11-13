@@ -41,3 +41,14 @@ header > address {
 .address-1:focus {
   color: #404bbf;
 }
+.address-2 {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.address-2:hover {
+  color: #404bbf;
+}
+.address-2:focus {
+  color: #404bbf;
+}
