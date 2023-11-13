@@ -15,15 +15,15 @@ body {
 .header-logo-2 {
   color: #2e2f42;
 }
-.ul-1 {
+.spisokhead {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.ul-1:hover {
+.spisokhead:hover {
   color: #404bbf;
 }
-.ul-1:focus {
+.spisokhead:focus {
   color: #404bbf;
 }
