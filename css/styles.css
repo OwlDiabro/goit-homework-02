@@ -15,15 +15,15 @@ body {
 .header-logo-2 {
   color: #2e2f42;
 }
-.header-ul-1 {
+.ul-1 {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.header-ul-1:hover {
+.ul-1:hover {
   color: #404bbf;
 }
-.header-ul-1:focus {
+.ul-1:focus {
   color: #404bbf;
 }
