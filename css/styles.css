@@ -41,14 +41,14 @@ header > address {
 .address-mail:focus {
   color: #404bbf;
 }
-.address-num {
+.address-mail {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.address-num:hover {
+.address-mail:hover {
   color: #404bbf;
 }
-.address-num:focus {
+.address-mail:focus {
   color: #404bbf;
 }
