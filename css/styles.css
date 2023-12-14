@@ -86,7 +86,7 @@ img {
   display: flex;
   gap: 24px;
 }
-.spdt {
+.section-strategy {
   width: calc((100% - 72px) / 4);
 }
 .about-company {
