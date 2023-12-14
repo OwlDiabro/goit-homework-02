@@ -160,6 +160,7 @@ header > address {
 }
 .our-portfolio {
   background-color: #f4f4fd;
+  padding: 120px 0;
 }
 .our-portfolio-h {
   font-size: 36px;
@@ -168,9 +169,19 @@ header > address {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+  margin-bottom: 72px;
 }
-.mark-guerrero {
+.our-portfolio-ul {
+  display: flex;
+  gap: 24px;
+}
+.our-li {
   background-color: #ffffff;
+  width: calc((100% - 72px) / 4);
+  border-radius: 0px 0px 4px 4px;
+}
+.our-li-name {
+  padding: 32px 0;
 }
 .mark-h {
   font-weight: 500;
@@ -178,11 +189,14 @@ header > address {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  text-align: center;
+  margin-bottom: 8px;
 }
 .mark-p {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  text-align: center;
 }
 .our-h {
   font-size: 36px;
