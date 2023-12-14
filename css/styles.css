@@ -44,10 +44,11 @@ img {
   display: flex;
   gap: 40px;
 }
-.header-nav-li {
-  padding: 24px 0 24px;
-}
+
 .header-address {
   display: flex;
   gap: 40px;
+}
+.spisokhead {
+  padding: 24px 0;
 }
