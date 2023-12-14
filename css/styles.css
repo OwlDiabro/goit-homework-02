@@ -87,7 +87,7 @@ img {
   gap: 24px;
 }
 .spdt {
-  width calc((100% - 3 * 24px) / 4);
+  width: calc((100% - 72px) / 4);
 }
 .about-company {
   margin-bottom: 8px;
