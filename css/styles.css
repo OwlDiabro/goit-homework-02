@@ -82,3 +82,13 @@ img {
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
+.strategy-ul {
+  display: flex;
+  gap: 24px;
+}
+.spdt {
+  width: calc((100% - 72px) / 4);
+}
+.about-company {
+  margin-bottom: 8px;
+}
