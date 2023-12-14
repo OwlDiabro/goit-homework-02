@@ -15,8 +15,9 @@ img {
 .header-div {
   display: flex;
 }
-.header {
+.container {
   border-bottom: 1px solid #e7e9fc;
+  width: 1158px;
 }
 .header-logo {
   font-family: "Raleway", sans-serif;
